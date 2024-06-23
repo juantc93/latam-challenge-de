@@ -1,0 +1,7 @@
+jupyterlab >= 3.6
+memory-profiler
+line_profiler
+pandas== 1.5.3
+emoji == 2.8.0
+ujson==5.8.0
+
